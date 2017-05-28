@@ -1499,7 +1499,7 @@ input:focus {
 }
 
 .sidebar-nav > .sidebar-brand img {
-  border-radius: 17%;
+  border-radius: 100%;
 }
 
 #menu-toggle {
